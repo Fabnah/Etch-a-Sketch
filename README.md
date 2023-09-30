@@ -1,1 +1,1 @@
-# Etch-a-Sketch
+proyecto creado sigueindo el curso de Odin Project
